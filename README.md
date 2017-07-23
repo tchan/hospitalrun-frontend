@@ -22,6 +22,7 @@ To run the development environment for this frontend you will need to have [Git]
 - [Start coding](#start-coding)
 - [Further Reading / Useful Links](#further-reading--useful-links)
 - [Experimental](#experimental)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Contributing
 
@@ -177,3 +178,10 @@ If you are willing to try using `make`, ensure you have installed Git, Node.js a
 
 ### Cloud 9 Development Environment
 [Documented in the project wiki](https://github.com/HospitalRun/hospitalrun-frontend/wiki/Optional:-Cloud9-Development-Environment)
+
+## Frequently Asked Questions
+
+**Q: What is the difference between hospitalrun-frontend and hospitalrun-server?**
+Frontend is the primary repository and is used for development purposes. Server is the node backend, if you are looking to run HospitalRun in a clinical setting, you should use server.
+
+
